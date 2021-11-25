@@ -1,0 +1,11 @@
+.lista-ordenada{
+    background-color: yellow;
+}
+
+.item-par{
+    color: green;
+}
+
+.item-impar{
+    text-transform: uppercase;
+}
