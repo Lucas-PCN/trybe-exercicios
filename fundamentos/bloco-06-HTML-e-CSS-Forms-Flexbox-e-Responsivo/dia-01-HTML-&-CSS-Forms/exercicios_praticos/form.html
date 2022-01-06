@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario-curriculo</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>Formulário para cadastro de currículo</h1>
+        <p>Preencha os campos abaixo</p>
+    </header>
+    <main>
+        <form id="cv-form">
+            <div class="form-row">
+                <fieldset>
+                    <div class="line-content">
+                        <label for="name">Nome: </label>
+                        <input class="name-input" type="text" name="name" id="name" maxlength="40" required>
+                    </div>
+                    <div class="line-content">
+                        <label for="email">Endereço de e-mail: </label>
+                        <input class="email-input" type="email" name="email" id="email" maxlength="50" required>
+                    </div>
+                    <div class="line-content">
+                        <label for="cpf-number">CPF: </label>
+                        <input type="text" name="cpf" id="cpf-number" maxlength="11" required>
+                    </div>
+                    <div class="line-content">
+                        <label for="address">Endereço: </label>
+                        <input type="text" name="address" id="address" maxlength="200" required>
+                    </div>
+                    <div class="line-content">
+                        <label for="city">Cidade: </label>
+                        <input type="text" name="city" id="city" maxlength="28" required>
+                    </div>
+                    <div class="line-content">
+                        <label for="state">Estado: </label>
+                        <select name="state" id="state" required>
+                        <option disabled selected value>Selecione seu estado</option>
+                        </select>
+                    </div>
+                    <div class="line-content">
+                        <label for="houseType">Tipo de imóvel: </label>
+                        <input type="radio" name="houseType" id="house" value="house" required>
+                        <span>Casa</span>
+                        <input type="radio" name="houseType" id="apartment" value="apartment" required>
+                        <span>Apartamento</span>
+                    </div>
+                </fieldset>
+            </div>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
