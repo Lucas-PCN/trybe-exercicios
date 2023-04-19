@@ -28,4 +28,3 @@ target/*
 
 .classpath
 /target/
-trybe-filter-repo.sh
