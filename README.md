@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - Lessons Learned]()_
+- [x] 3-5: _[Projeto - Lessons Learned](https://github.com/Lucas-PCN/lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript e Lógica de Programação
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 4-2: _JavaScript - Array e loop For_
 - [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/Lucas-PCN/playground-functions)_
 
 ##### Bloco 5: Introdução - JavaScript: DOM, Eventos e Web Storage
 
@@ -41,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
 - [ ] 5-3: _JavaScript - Eventos_
 - [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [ ] 5-5: _Projeto - Meme Generator_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/Lucas-PCN/pixels-art)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/Lucas-PCN/to-do-list)_
+- [ ] 5-7: _Projeto - Adivinhe a Cor_
+- [ ] 5-7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 
@@ -54,14 +54,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Projeto - Trybewarts](https://github.com/Lucas-PCN/trybewarts)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [ ] 7-3: _Primeiros passos em Jest_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/Lucas-PCN/es6-unit-tests)_
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
@@ -69,14 +69,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-5: _[Projeto - Zoo functions](https://github.com/Lucas-PCN/zoo-functions)_
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9-3: _Jest - Testes Assíncronos_
-- [x] 9-3: _[Projeto - Shopping Cart]()_
+- [x] 9-3: _[Projeto - Shopping Cart](https://github.com/Lucas-PCN/shopping-cart)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -84,13 +84,13 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - [ ] 10-1: _'Hello, world!' no React!_
 - [ ] 10-2: _Componentes React_
-- [x] 10-3: _[Projeto - Solar System]()_
+- [x] 10-3: _[Projeto - Solar System](https://github.com/Lucas-PCN/solar-system)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [ ] 11-1: _Components com estado e eventos_
 - [ ] 11-2: _Formulários no React_
-- [x] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-3: _[Projeto - Tryunfo](https://github.com/Lucas-PCN/tryunfo)_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
@@ -141,7 +141,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 19-1: _Utilizando Containers - Docker_
 - [ ] 19-2: _Manipulação e Criação de Imagens no Docker_
 - [ ] 19-3: _Orquestrando Containers com Docker Compose_
-- [x] 19-4: _[Projeto - Docker Todo-list]()_
+- [x] 19-4: _[Projeto - Docker Todo-list](https://github.com/Lucas-PCN/docker-to-do-list)_
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -149,14 +149,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 20-2: _Encontrando dados em um banco de dados_
 - [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
-- [x] 20-5: _[Projeto - All For One]()_
+- [x] 20-5: _[Projeto - All For One](https://github.com/Lucas-PCN/mysql-all-for-one)_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
 - [ ] 21-1: _Funções mais usadas no SQL_
 - [ ] 21-2: _Descomplicando JOINs e UNIONs_
 - [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [x] 21-4: _[Projeto - One For All]()_
+- [x] 21-4: _[Projeto - One For All](https://github.com/Lucas-PCN/mysql-one-for-all)_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
@@ -165,7 +165,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 22-3: _Mocha, Chai, Sinon - Testes de Back-end com Node.js_
 - [ ] 22-4: _Express - HTTP com Node.js_
 - [ ] 22-5: _Express - Middlewares_
-- [x] 22-6: _[Projeto - Talker Manager]()_
+- [x] 22-6: _[Projeto - Talker Manager](https://github.com/Lucas-PCN/talker-manager)_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
@@ -173,7 +173,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 23-2: _Arquitetura de Software - Camada de Controller e Service_
 - [ ] 23-3: _Arquitetura Web - Rest e Restful_
 - [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
-- [x] 23-5: _[Projeto - Store Manager]()_
+- [x] 23-5: _[Projeto - Store Manager](https://github.com/Lucas-PCN/store-manager)_
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
@@ -181,20 +181,20 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 24-2: _ORM - Associations_
 - [ ] 24-3: _JWR - JSON Web Token_
 - [ ] 24-4: _Testando APIs com Testes de Integração_
-- [x] 24-5: _[Projeto - API de Blogs]()_
+- [x] 24-5: _[Projeto - API de Blogs](https://github.com/Lucas-PCN/blogs-api)_
 
 ##### Bloco 25: Deployment
 
 - [ ] 25-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 25-2: _Deploy Docker & Heroku_
-- [x] 25-3: _[Projeto - Stranger Things]()_
+- [x] 25-3: _[Projeto - Stranger Things](https://github.com/Lucas-PCN/stranger-things-backend)_
 
 ##### Bloco 26: TypeScript
 
 - [ ] 26-1: _Introdução ao TypeScript_
 - [ ] 26-2: _Tipagem Estática e Generics_
 - [ ] 26-3: _Express com TypeScript_
-- [x] 26-4: _[Projeto - Trybe Smith]()_
+- [x] 26-4: _[Projeto - Trybe Smith](https://github.com/Lucas-PCN/trybesmith)_
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
@@ -203,11 +203,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 27-3: _Polimorfismo_
 - [ ] 27-4: _SOLID - Introdução_
 - [ ] 27-5: _SOLID - Continuação_
-- [x] 27-6: _[Projeto - Trybers and Dragons]()_
+- [x] 27-6: _[Projeto - Trybers and Dragons](https://github.com/Lucas-PCN/trybers-and-dragons)_
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
-- [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/Lucas-PCN/trybe-futebol-clube)_
 
 ##### Bloco 29: Introdução ao MongoDB
 
@@ -216,17 +216,17 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 29-3: _Operadores de consulta_
 - [ ] 29-4: _Updates Simples_
 - [ ] 29-5: _Updates Complexos - Arrays_
-- [x] 29-6: _[Projeto - Commerce]()_
+- [x] 29-6: _[Projeto - Commerce](https://github.com/Lucas-PCN/commerce)_
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
 - [ ] 30-1: _Mongoose e arquitetura MSC (Camada Model)_
 - [ ] 30-2: _Mongoose e arquitetura MSC (Camada Service e Controller)_
-- [x] 30-3: _[Projeto - Car Shop]()_
+- [x] 30-3: _[Projeto - Car Shop](https://github.com/Lucas-PCN/car-shop)_
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [x] 31-1: _[Projeto - App de Delivery]()_
+- [x] 31-1: _[Projeto - App de Delivery](https://github.com/Lucas-PCN/delivery-app)_
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
@@ -240,28 +240,28 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Entrada e Saída de Dados_
 - [ ] 35-3: _Testes_
-- [x] 35-4: _[Projeto - Job Insights]()_
+- [x] 35-4: _[Projeto - Job Insights](https://github.com/Lucas-PCN/job-insights)_
 
 ##### Bloco 34: Padrões de Projeto
 
 - [ ] 34-1: _P.O.O. em Python_
 - [ ] 34-2: _Padrões - Iterator, Adapter e Strategy_
 - [ ] 34-3: _Padrões - Decorator, Observer e Factory_
-- [x] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [x] 34-4: _[Projeto - Relatórios de Estoque](https://github.com/Lucas-PCN/inventory-report)_
 
 ##### Bloco 35: Redes e Raspagem de Dados
 
 - [ ] 35-1: _Arquitetura de redes_
 - [ ] 35-2: _Raspagem de Dados_
 - [ ] 35-3: _Outras Ferramentas de Raspagem de Dados_
-- [x] 35-4: _[Projeto - Tech news]()_
+- [x] 35-4: _[Projeto - Tech news](https://github.com/Lucas-PCN/tech-news)_
 
 ##### Bloco 36: Algoritmos
 
 - [ ] 36-1: _Complexidade de Algoritmos_
 - [ ] 36-2: _Recursividade e Estratégias para a solução de problemas_
 - [ ] 36-3: _Algoritmos de ordenação e busca_
-- [x] 36-4: _[Projeto - Algoritmos]()_
+- [x] 36-4: _[Projeto - Algoritmos](https://github.com/Lucas-PCN/algorithms)_
 
 ##### Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
@@ -269,13 +269,13 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 37-2: _Arrays_
 - [ ] 37-3: _Nó e Listas Encadeadas_
 - [ ] 37-4: _Pilhas e Filas_
-- [x] 34-5: _[Projeto - TING - Trybe Is Not Google]()_
+- [x] 34-5: _[Projeto - TING - Trybe Is Not Google](https://github.com/Lucas-PCN/ting)_
 
 ##### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
 
 - [ ] 38-1: _Hashmap e Dict_
 - [ ] 38-2: _Set_
-- [x] 38-3: _[Projeto - Restaurant Orders]()_
+- [x] 38-3: _[Projeto - Restaurant Orders](https://github.com/Lucas-PCN/restaurant-orders)_
 
 ## Aceleração em Java :hourglass_flowing_sand:
 
@@ -286,7 +286,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 1-3: _Estruturas condicionais e de repetição_
 - [x] 1-4: _Finalmente o "Hello, world!" em Java_
 - [x] 1-5: _Conhecendo melhor o Eclipse_
-- [x] 1-6: _[Projeto - Controle de Acesso]()_
+- [x] 1-6: _[Projeto - Controle de Acesso](https://github.com/Lucas-PCN/controle-de-acesso)_
 
 ##### Bloco 2: Orientação a Objetos
 
