@@ -84,9 +84,9 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 </details>
 
 <details>
-  <summary><strong>Desenvolvimento Front-end :hourglass_flowing_sand:</strong></summary><br />
+  <summary><strong>Desenvolvimento Front-end :white_check_mark:</strong></summary><br />
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 10: Introdução - React
 
@@ -145,9 +145,9 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 </details>
 
 <details>
-  <summary><strong>Desenvolvimento Back-end :hourglass_flowing_sand:</strong></summary><br />
+  <summary><strong>Desenvolvimento Back-end :white_check_mark:</strong></summary><br />
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Bloco 19: Docker: Utilizando Containers
 
@@ -249,9 +249,9 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 </details>
 
 <details>
-  <summary><strong>Ciência da Computação :hourglass_flowing_sand:</strong></summary><br />
+  <summary><strong>Ciência da Computação :white_check_mark:</strong></summary><br />
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 
 ##### Bloco 33: Introdução à Python
 
@@ -298,9 +298,9 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 </details>
 
 <details>
-  <summary><strong>Aceleração em Java :hourglass_flowing_sand:</strong></summary><br />
+  <summary><strong>Aceleração em Java :white_check_mark:</strong></summary><br />
 
-## Aceleração em Java :hourglass_flowing_sand:
+## Aceleração em Java :white_check_mark:
 
 ##### Bloco 1: Essenciais de Java
 
