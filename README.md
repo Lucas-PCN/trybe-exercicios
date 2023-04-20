@@ -6,6 +6,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+<details>
+  <summary><strong>Fundamentos do Desenvolvimento Web :white_check_mark:</strong></summary><br />
+
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Bash
@@ -78,6 +81,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 9-3: _Jest - Testes Assíncronos_
 - [x] 9-3: _[Projeto - Shopping Cart](https://github.com/Lucas-PCN/shopping-cart)_
 
+</details>
+
+<details>
+  <summary><strong>Desenvolvimento Front-end :hourglass_flowing_sand:</strong></summary><br />
+
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 10: Introdução - React
@@ -133,6 +141,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 ##### Bloco 18: Projeto Final de Front-end
 
 - [x] 18-1: _[Projeto - App de Receitas]()_
+
+</details>
+
+<details>
+  <summary><strong>Desenvolvimento Back-end :hourglass_flowing_sand:</strong></summary><br />
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -233,6 +246,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 32-1: Dia 1
 - [x] 32-2: Dia 2
 
+</details>
+
+<details>
+  <summary><strong>Ciência da Computação :hourglass_flowing_sand:</strong></summary><br />
+
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Introdução à Python
@@ -276,6 +294,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 38-1: _Hashmap e Dict_
 - [ ] 38-2: _Set_
 - [x] 38-3: _[Projeto - Restaurant Orders](https://github.com/Lucas-PCN/restaurant-orders)_
+
+</details>
+
+<details>
+  <summary><strong>Aceleração em Java :hourglass_flowing_sand:</strong></summary><br />
 
 ## Aceleração em Java :hourglass_flowing_sand:
 
@@ -367,4 +390,6 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - [x] 13-1: _Java e Docker_
 - [x] 13-2: _[Projeto - Gerenciador de Estoque]()_
+
+</details>
 
